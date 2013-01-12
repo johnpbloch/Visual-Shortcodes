@@ -2,7 +2,7 @@
 Contributors: JohnPBloch
 Tags: editor, visual editor, shortcodes,
 Requires at least: 3.2.1
-Tested up to: 3.3-aortic-dissection
+Tested up to: 3.5
 Stable tag: 0.1
 
 This is a utility plugin that will allow other plugins and themes to swap out shortcodes with custom images, in the same way that WordPress' native gallery shortcode does this.
